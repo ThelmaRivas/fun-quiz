@@ -1,0 +1,60 @@
+body {
+  background-color:honeydew;
+  font-family: monospace;
+  font-size: 170%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color:darkgreen;
+  font-weight: bold;
+}
+
+a:hover {
+  color: rgb(137, 205, 137);
+}
+
+.timer {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+main {
+  max-width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 8%;
+}
+
+button {
+  display: inline-block;
+  font-size: 65%;
+  cursor:pointer;
+  background-color:teal;
+  color: white;
+  border-radius: 15px;
+  padding: 5px 10px;
+  border-color: blanchedalmond;
+}
+
+button:hover {
+  background-color:  rgb(137, 205, 137);
+}
+
+.hide {
+  display: none;
+}
+
+.answer {
+  font-size: 120%;
+  font-style: italic;
+  margin-top: 20px;
+  border-top: 2px solid lightgray;
+}
+
+.options button {
+  display: block;
+  margin: 10px;
+}
