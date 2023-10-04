@@ -10,9 +10,9 @@ On the repository you find 2 folder: Assets and Develop. In the assets hold the 
 
 When the browser uploads, then the user finds a start screen and a button that says start quiz, when the user clicks on the start quiz button then the timer starts counting and the first question is display. The user needs to choose between the 4 multiple choice, if the user gets the correct answer then a feedback message is display saying "correct" if the user get it wrong, then the display message says "wrong" and punish the user with -15 seconds of the timer. When the user finish the quiz, then the website asks for his/her initials so their highscores can be saved. 
 
-Link to Github Pages Deploymment --> 
+Link to Github Pages Deploymment --> https://thelmarivas.github.io/fun-quiz/
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Captura%20de%20pantalla%202023-10-03%20225317.png)
 
 ## Credits
 
